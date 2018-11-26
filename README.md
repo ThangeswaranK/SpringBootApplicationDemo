@@ -1,2 +1,2 @@
 # SpringBootApplicationDemo
-Sample application for SpringBoot
+Sample application for SpringBootDemo
