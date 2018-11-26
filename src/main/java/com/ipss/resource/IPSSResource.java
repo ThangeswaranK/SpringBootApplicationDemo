@@ -32,9 +32,6 @@ public class IPSSResource {
 	@Autowired
 	UsersRepository usersRepository;
 	
-	/*@Autowired
-	UsersRepositoryJPA usersRepositoryJPA;
-	*/
 	@GetMapping("/allUsers")
 	public List<Users> getAll(){
 		List<Users> users = new ArrayList<>();
